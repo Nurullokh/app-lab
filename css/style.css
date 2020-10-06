@@ -1,0 +1,150 @@
+body{
+    font-family: Poppins, sans-serif;
+    background-color: #fdfdfe;
+    overflow-x: hidden !important;
+}
+
+/* For home page */
+
+header a .app{
+    color: #fcae61;
+}
+section{
+    background: url(/img/back-img.png) no-repeat;
+    background-position: bottom;
+    background-size: auto;
+    height: 41em;
+}
+
+#h6-editor{
+    background-color: #e2eaed;
+    color: #2f3a5a;
+}
+#h6-editor img{
+    height: 24px;
+    width: 24px;
+}
+
+#badge-check{
+    background-color: transparent;
+}
+
+.main-window h1{
+    font-size: 3.35em;
+    color: #2f3a5a;
+}
+
+.mockup{
+    height: 600px;
+    width: 328px;
+}
+
+/* Trusted companies */
+.companies .row{
+    height: 150px;
+}
+
+
+/* Awesome Features */
+.awesome-f .img-side{
+    width: 6em;
+    height: 6em;
+}
+
+
+.awesome-f .a-fh3{
+    color: #242f51;
+}
+.awesome-f .f-per{
+    color: #f55767;
+}
+.awesome-f .prot{
+    color: #2563ff;
+}
+.awesome-f .v-edit{
+    color: #40975f;
+}
+
+/* jackpots */
+#jackpots .b-right{
+    border-right: 1px solid #b9b9b8;
+    color: #242f51; 
+}
+
+/* Icons part */
+#icons-part .payme{
+    color: #f55767;
+}
+#icons-part .network{
+    color: #2563ff;
+}
+#icons-part .badge{
+    color: #40975f;
+}
+
+/* Designed part */
+.designed h3{
+    color: #242f51;
+}
+
+
+/* Upselling part */
+.upselling-m h3{
+    color: #242f51;
+}
+
+.upselling-gallery h5{
+    color: #242f51;
+}
+
+
+/* Ultimate features part */
+.ultimate-feature h3, h5{
+    color: #242f51;
+}
+
+/* Payment part */
+.upselling-m .h6-rounded{
+    border: 1px solid #898a8e;
+    padding: 0.7em 0.2em 0.8em 0.2em;
+    
+}
+
+.pay-cards h2, h5{
+    color: #242f51;
+}
+
+/* Client satisfaction */
+.client-satisfaction h3,h5{
+    color: #242f51;
+}
+
+
+/* Accordion */
+.accordion-piece img{
+    width: 18px;
+    height: 19px;
+}
+
+/* Download app part */
+.download-app h2{
+    color: #242f51;
+}
+
+
+.footer {
+    height: 38em;
+    background-color: #09142e;
+}
+
+.footer #f-last{
+    color: #fcae61;
+    font-size: 2em;
+}
+.footer #f-last1{
+    color: #ffffff;
+    font-size: 2em;
+}
+.footer .raw1 p{
+    color: #fff;
+}
